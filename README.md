@@ -16,3 +16,5 @@ Welcome to my academic portfolio for CEP NBB
 
 ## Projects
 *This section will be updated as I complete assignments*
+
+<!-- Consider adding a part for possible coding projects! -->
