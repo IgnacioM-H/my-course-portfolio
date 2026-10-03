@@ -1,2 +1,18 @@
-# my-course-portfolio
-Portfolio of my work and projects for CEP
+# My Course Portfolio
+
+Welcome to my academic portfolio for CEP NBB
+
+## About Me
+- Name: Ignacio Morales Hermosilla
+- Major: Computer Programming and Analysis
+- Year: 2029
+- Favorite Programming Language: Java
+
+## Course Goals
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+
+## Projects
+*This section will be updated as I complete assignments*
